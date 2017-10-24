@@ -6,8 +6,7 @@ I'll keep my bio pretty brief. My mission in life is to help as many people as p
 It's why I started [Penn Tech Review](http://www.penntechreview.com), to tell the stories of people making transformative impacts in technology. Soon enough, my team and I will build the largest database of inspiring
 profiles in technology. 
 
-Anyway, my interests include web development, JavaScript (if that counts as an interest), playing the guitar,
-and reading articles online.
+Anyway, my interests include web development, JavaScript (if that counts as an interest), and playing the guitar.
 
 
 
